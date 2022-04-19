@@ -1,5 +1,5 @@
 #   SCAD Spring 2022 - Math204-N01 - Professor Juras
-#   Week 1 - Python Basics: Problem 1
+#   Week 1 - Python Basics: Exercise 2
 
 #   Assume s is a string of lower case characters.
 #   Write a program that prints the number of times the string 'bob' occurs in s. For example, if s = 'azcbobobegghakl', then your
